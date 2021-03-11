@@ -1,0 +1,17 @@
+@import "../../scss/variables";
+
+.card {
+  &-elevation {
+    &-1 {
+      box-shadow: 0 2px 28px 2px rgba(#000, .05);
+    }
+    &-2 {
+      box-shadow: 0 2px 28px 2px rgba(#000, .15);
+    }
+  }
+
+
+  &.card-border {
+    border: 1px solid $gray-300;
+  }
+}

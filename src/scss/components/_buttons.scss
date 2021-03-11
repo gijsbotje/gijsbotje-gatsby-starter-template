@@ -1,0 +1,18 @@
+.btn {
+  position: relative;
+  z-index: 0;
+  overflow: hidden;
+  text-transform: uppercase;
+
+  &.btn-link {
+    text-transform: initial;
+  }
+
+  &.icon-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+  }
+}

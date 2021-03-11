@@ -1,0 +1,12 @@
+[build]
+  publish = "public"
+  command = "npm run build"
+  functions = "lambda"
+[build.environment]
+  NODE_VERSION = "12.19.0"
+  YARN_VERSION = "1.22.5"
+  YARN_FLAGS = "--no-ignore-optional"
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Strict-Transport-Security = "max-age=31536000; preload"

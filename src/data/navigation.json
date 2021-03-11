@@ -1,0 +1,20 @@
+{
+  "en": {
+    "items": [
+      {
+        "label": "Page 1",
+        "url": "/page-1/",
+        "external": false
+      },
+      {
+        "label": "Page 2",
+        "url": "/page-2/",
+        "external": false
+      }
+    ],
+    "button": {
+      "label": "Extra button",
+      "url": "#"
+    }
+  }
+}
