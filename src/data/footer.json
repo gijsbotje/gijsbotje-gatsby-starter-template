@@ -46,53 +46,5 @@
         ]
       }
     ]
-  },
-  "cn": {
-    "items": [
-      {
-        "label": "了解更多",
-        "items": [
-          {
-            "label": "About us",
-            "url": "/cn/about-us/",
-            "external": false,
-            "newWindow": false
-          }
-        ]
-      },
-      {
-        "label": "Connect with Linear",
-        "items": [
-          {
-            "label": "Github",
-            "url": "https://github.com/Linear-finance",
-            "external": true,
-            "newWindow": true
-          }
-        ]
-      },
-      {
-        "label": "Our apps",
-        "items": [
-          {
-            "label": "Linear Buildr",
-            "url": "https://buildr.linear.finance",
-            "external": true,
-            "newWindow": true
-          }
-        ]
-      },
-      {
-        "label": "Legal",
-        "items": [
-          {
-            "label": "Privacy policy",
-            "url": "/cn/privacy-policy/",
-            "external": false,
-            "newWindow": false
-          }
-        ]
-      }
-    ]
   }
 }
