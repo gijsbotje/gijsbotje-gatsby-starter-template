@@ -2,8 +2,8 @@
 templateKey: home-page
 locale: en
 seo:
-  title: "Linear Finance"
-  description: "Linear Finance"
+  title: "seo title"
+  description: "seo description"
 home:
   title: Page title
 ---
