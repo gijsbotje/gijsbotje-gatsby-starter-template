@@ -2,44 +2,44 @@
   "en": {
     "items": [
       {
-        "label": "Learn more",
+        "label": "Column 1",
         "items": [
           {
-            "label": "About us",
-            "url": "/about-us/",
+            "label": "Item",
+            "url": "#",
             "external": false,
             "newWindow": false
           }
         ]
       },
       {
-        "label": "Connect with Linear",
+        "label": "Column 2",
         "items": [
           {
-            "label": "Github",
-            "url": "https://github.com/Linear-finance",
-            "external": true,
-            "newWindow": true
+            "label": "Item",
+            "url": "#",
+            "external": false,
+            "newWindow": false
           }
         ]
       },
       {
-        "label": "Our apps",
+        "label": "Column 3",
         "items": [
           {
-            "label": "Linear Buildr",
-            "url": "https://buildr.linear.finance",
-            "external": true,
-            "newWindow": true
+            "label": "Item",
+            "url": "#",
+            "external": false,
+            "newWindow": false
           }
         ]
       },
       {
-        "label": "Legal",
+        "label": "Column 1",
         "items": [
           {
-            "label": "Privacy policy",
-            "url": "/privacy-policy/",
+            "label": "Item",
+            "url": "#",
             "external": false,
             "newWindow": false
           }
